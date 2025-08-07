@@ -7,7 +7,16 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@opentelemetry/api-logs": "^0.203.0",
+    "@opentelemetry/exporter-trace-otlp-http": "^0.203.0",
+    "@opentelemetry/instrumentation": "^0.203.0",
+    "@opentelemetry/resources": "^2.0.1",
+    "@opentelemetry/sdk-logs": "^0.203.0",
+    "@opentelemetry/sdk-node": "^0.203.0",
+    "@opentelemetry/sdk-trace-node": "^2.0.1",
+    "@opentelemetry/semantic-conventions": "^1.36.0",
     "@radix-ui/react-select": "^0.1.1",
+    "@vercel/otel": "^1.13.0",
     "axios": "^1.11.0",
     "country-flags-svg": "^1.1.6",
     "got": "^12.1.0",
