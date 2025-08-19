@@ -91,7 +91,7 @@ export default function Home() {
       </Head>
 
       <main className={styles.main}>
-        <h1 className={styles.title}>Country Flags Serverless Functions New Relic Demo by Munwar Mohammed</h1>
+        <h1 className={styles.title}>Country Flags Serverless Functions Demo by Munwar Mohammed</h1>
       </main>
 
       <footer className={styles.footer}>
